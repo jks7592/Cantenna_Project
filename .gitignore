@@ -1,5 +1,6 @@
 #
 *.jpg
+*.png
 Python_Tests/
 *.wav
 sar_files/*.wav
